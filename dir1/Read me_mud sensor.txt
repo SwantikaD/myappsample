@@ -1,0 +1,11 @@
+mud_sensor_only: state machine and configurable Accno+samples implemented.
+mud_sensor_only-Copy: original file with basic state machine implemented.
+mud_sensor_only_with_configurable_parameters-goodcopy: state machine + start/cont/bufno/busy/sampleno/accno implemented + mudcal + inputsel.
+mud_sensor_only_with_configurable_parameters: mud_sensor_only_with_configurable_parameters-goodcopy + status code for Weng Fatt
+mud_sensor_only_with_configurable_parameters_noTB: Test bench removed for testing with the PCB.
+mud_sensor_only_with_configurable_parameters_MUDCAL: state machine + start/cont/bufno/busy/sampleno/accno + inputsel + mudcal implemented ACCORDING TO ME (not used).
+mud_sensor_only_with_configurable_parameters_ported: mud_sensor_only_with_configurable_parameters file ported for eval board.
+
+
+ResistivityTX_Rio_FPGA_merge_v2: SPI changed for Lau's code (txp part only, not txps)
+NGResistivityTX_FPGA: Lau's TX code merged with mud sensor (rom and adc cs commented out)
