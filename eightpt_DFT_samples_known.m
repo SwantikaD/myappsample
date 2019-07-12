@@ -1,6 +1,6 @@
 clear;
 clc;
-N = 5;
+N = 10;
 A1 = hex2dec('6058') + hex2dec('0002')*65536;
 A2 = hex2dec('7DB3') + hex2dec('0002')*65536;
 A3 = hex2dec('9873') + hex2dec('0002')*65536;
